@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+venv/
+backend/venv/
+camera_simulator/venv/
+
+# Ignorar archivos Python compilados
+__pycache__/
+*.pyc
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos del sistema
+.DS_Store
